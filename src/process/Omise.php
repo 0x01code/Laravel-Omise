@@ -1,6 +1,6 @@
 <?php
 
-namespace code\Omise\process;
+namespace ox01code\Omise\process;
 
 use Illuminate\Support\Facades\Http;
 

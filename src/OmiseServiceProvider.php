@@ -1,9 +1,9 @@
 <?php
 
-namespace code\Omise;
+namespace ox01code\Omise;
 
-use code\Omise\process\OmiseCharge;
-use code\Omise\process\OmiseSource;
+use ox01code\Omise\process\OmiseCharge;
+use ox01code\Omise\process\OmiseSource;
 use Illuminate\Support\ServiceProvider;
 
 class OmiseServiceProvider extends ServiceProvider

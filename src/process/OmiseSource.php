@@ -1,8 +1,8 @@
 <?php
 
-namespace code\Omise\process;
+namespace ox01code\Omise\process;
 
-use code\Omise\process\Omise;
+use ox01code\Omise\process\Omise;
 use Illuminate\Support\Facades\Http;
 
 class OmiseSource extends Omise

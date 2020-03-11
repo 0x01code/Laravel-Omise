@@ -1,5 +1,5 @@
 {
-    "name": "code/omise",
+    "name": "ox01code/omise",
     "description": "this is a packge of omise",
     "type": "package",
     "license": "MIT",
@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "code\\Omise\\": "src/"
+            "ox01code\\Omise\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "code\\Omise\\OmiseServiceProvider"
+                "ox01code\\Omise\\OmiseServiceProvider"
             ]
         }
     }

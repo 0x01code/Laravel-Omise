@@ -2,8 +2,6 @@
 
 namespace ox01code\Omise\process;
 
-use Illuminate\Support\Facades\Http;
-
 class Omise
 {
     static protected $url;

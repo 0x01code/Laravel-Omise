@@ -31,6 +31,17 @@
 composer require ox01code/omise
 ```
 
+นำไฟล์ config มาไว้ที่โปรเจค
+```
+php artisan vendor:publish --tag=config
+```
+
+กำหนดค่าที่ไฟล์ .env
+```
+OMISE_PUBLIC_KEY=
+OMISE_SECRET_KEY=
+```
+
 สร้าง Source [อ่านเพิ่มเติม](https://www.omise.co/th/omise-js/thailand#createsource)
 ```
 $response = OmiseSource::create([

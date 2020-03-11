@@ -1,0 +1,29 @@
+{
+    "name": "code/omise",
+    "description": "this is a packge of omise",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "0x01code",
+            "email": "donghappy123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.2.5",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "code\\Omise\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "code\\Omise\\OmiseServiceProvider"
+            ]
+        }
+    }
+}

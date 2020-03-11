@@ -8,7 +8,29 @@
 # Docs
 [เริ่มต้นใช้งานของ omise](https://www.omise.co/th/docs/thailand)
 
+# Support
+<table>
+   <thead>
+      <tr>
+         <th>Laravel</th>
+         <th>Version</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>7</td>
+         <td>1.0-dev</td>
+      </tr>
+   </tbody>
+</table>
+
 # Let's Start
+
+โหลดผ่าน composer
+```
+composer require ox01code/omise
+```
+
 สร้าง Source [อ่านเพิ่มเติม](https://www.omise.co/th/omise-js/thailand#createsource)
 ```
 $response = OmiseSource::create([

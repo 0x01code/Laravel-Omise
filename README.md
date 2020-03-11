@@ -19,7 +19,7 @@
    <tbody>
       <tr>
          <td>7</td>
-         <td>1.0-dev</td>
+         <td>dev-master</td>
       </tr>
    </tbody>
 </table>

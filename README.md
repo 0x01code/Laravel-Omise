@@ -6,7 +6,8 @@
 [![License](https://poser.pugx.org/ox01code/omise/license)](https://packagist.org/packages/ox01code/omise)
 
 # Docs
-[เริ่มต้นใช้งานของ omise](https://www.omise.co/th/docs/thailand)
+[เริ่มต้นใช้งานของ omise](https://www.omise.co/th/docs/thailand)  
+[ตัวอย่างโค้ด](https://github.com/0x01code/Laravel-Omise-Example)
 
 # Support
 <table>
